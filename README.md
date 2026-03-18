@@ -1,0 +1,2 @@
+# assethub-frontend
+Inventaire
